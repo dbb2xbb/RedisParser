@@ -7,5 +7,5 @@
 - 多条批量回复
 
 #### 测试方法：
-   1. 新增`redisParser_test.go`中的
+   1. 新增`redisParser_test.go`中的`tests`结构体的测试字符串
    2. 执行`test.sh`
